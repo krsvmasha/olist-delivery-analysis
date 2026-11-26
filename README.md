@@ -7,7 +7,7 @@
 | **Роль** | бизнес-аналитик |
 | **Предметная область** | электронная коммерция, обработка и доставка заказов |
 | **Данные** | [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), 2016–2018 |
-| **Инструменты** | PostgreSQL, DBeaver, Excel, Power BI, Jira, Confluence, draw.io |
+| **Инструменты** | PostgreSQL, DBeaver, Excel, Confluence, draw.io |
 
 ## Бизнес-проблема
 
